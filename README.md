@@ -1,0 +1,1 @@
+# Informatica_Load_Metadata_to_SQL
